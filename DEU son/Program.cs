@@ -61,7 +61,7 @@ namespace DEU_son
                             Console.WriteLine("");
 
                             a1++;//For assigning value to next empty array box
-                            tour++;//Tour increasas only after than assignment so without assignment, player does not change and loop continue
+                            tour++;//Tour increasas only after than assignment so without assignment, player does not change and loop will continue
                             break;
 
                         case 1:
